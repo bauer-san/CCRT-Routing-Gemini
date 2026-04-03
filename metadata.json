@@ -1,0 +1,5 @@
+{
+  "name": "CCRT Delivery Manifest Optimizer",
+  "description": "Ingest client data from client files and create optimized delivery manifests for multiple teams using global span constraints.",
+  "requestFramePermissions": []
+}
